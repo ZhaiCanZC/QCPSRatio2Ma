@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_interval.html#a9d014ab0dd1707f6c5d2a70370746263"><param name="Name" value="end"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_type_and_consts_8h.html#a3f1431cb9f76da10f59246d1d743dc2c"><param name="Name" value="Float64"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#aeb31e4f36a02d9573367a532f6be24af"><param name="Name" value="GetFnValue"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#aeb31e4f36a02d9573367a532f6be24af"><param name="Name" value="MaCalculate.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8c.html#aeb31e4f36a02d9573367a532f6be24af"><param name="Name" value="RatioCalculate.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8h.html#aeb31e4f36a02d9573367a532f6be24af"><param name="Name" value="RatioCalculate.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#ad2249169f3bdf2640f0b4fe7fdf1f8f5"><param name="Name" value="GetInterval"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#ad2249169f3bdf2640f0b4fe7fdf1f8f5"><param name="Name" value="MaCalculate.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#ad2249169f3bdf2640f0b4fe7fdf1f8f5"><param name="Name" value="MaCalculate.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#a253892e69f34431bc2545a7c6a3e4d95"><param name="Name" value="GetMa"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#a253892e69f34431bc2545a7c6a3e4d95"><param name="Name" value="MaCalculate.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#a253892e69f34431bc2545a7c6a3e4d95"><param name="Name" value="MaCalculate.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8h.html#a253892e69f34431bc2545a7c6a3e4d95"><param name="Name" value="main.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8h.html#aa5ab6025b29b45cc2f4099df288c009d"><param name="Name" value="GetRatio"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8h.html#aa5ab6025b29b45cc2f4099df288c009d"><param name="Name" value="main.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8c.html#aa5ab6025b29b45cc2f4099df288c009d"><param name="Name" value="RatioCalculate.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8h.html#aa5ab6025b29b45cc2f4099df288c009d"><param name="Name" value="RatioCalculate.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#a36ec9394e297cfb8a1c715d888e6a785"><param name="Name" value="IfSameSymbol"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#a36ec9394e297cfb8a1c715d888e6a785"><param name="Name" value="MaCalculate.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#a36ec9394e297cfb8a1c715d888e6a785"><param name="Name" value="MaCalculate.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_type_and_consts_8h.html#adf1ef98b7070177c7c709b0b82276a07"><param name="Name" value="Int32"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_interval.html"><param name="Name" value="Interval"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_interval.html#a9d014ab0dd1707f6c5d2a70370746263"><param name="Name" value="end"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#aaf2b87053de26e4b42b9080f96979381"><param name="Name" value="MaCalculate.h"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_interval.html#a32be7f9967586b049961daa00b62069c"><param name="Name" value="start"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_type_and_consts_8h.html#a1e734b9cf13e77f7f0910fc0b3ce6cf9"><param name="Name" value="Kn"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html"><param name="Name" value="MaCalculate.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#ad2249169f3bdf2640f0b4fe7fdf1f8f5"><param name="Name" value="GetInterval"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#a253892e69f34431bc2545a7c6a3e4d95"><param name="Name" value="GetMa"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8c.html#a36ec9394e297cfb8a1c715d888e6a785"><param name="Name" value="IfSameSymbol"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html"><param name="Name" value="MaCalculate.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#aeb31e4f36a02d9573367a532f6be24af"><param name="Name" value="GetFnValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#ad2249169f3bdf2640f0b4fe7fdf1f8f5"><param name="Name" value="GetInterval"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#a253892e69f34431bc2545a7c6a3e4d95"><param name="Name" value="GetMa"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#a36ec9394e297cfb8a1c715d888e6a785"><param name="Name" value="IfSameSymbol"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ma_calculate_8h.html#aaf2b87053de26e4b42b9080f96979381"><param name="Name" value="Interval"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a4934dbfafc20b64a7cc8cdfb395b233c"><param name="Name" value="main.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8h.html"><param name="Name" value="main.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8h.html#a253892e69f34431bc2545a7c6a3e4d95"><param name="Name" value="GetMa"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8h.html#aa5ab6025b29b45cc2f4099df288c009d"><param name="Name" value="GetRatio"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8h.html#a4934dbfafc20b64a7cc8cdfb395b233c"><param name="Name" value="main"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a4934dbfafc20b64a7cc8cdfb395b233c"><param name="Name" value="main"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a4934dbfafc20b64a7cc8cdfb395b233c"><param name="Name" value="main.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8h.html#a4934dbfafc20b64a7cc8cdfb395b233c"><param name="Name" value="main.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8c.html"><param name="Name" value="RatioCalculate.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8c.html#aeb31e4f36a02d9573367a532f6be24af"><param name="Name" value="GetFnValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8c.html#aa5ab6025b29b45cc2f4099df288c009d"><param name="Name" value="GetRatio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8h.html"><param name="Name" value="RatioCalculate.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8h.html#aeb31e4f36a02d9573367a532f6be24af"><param name="Name" value="GetFnValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_ratio_calculate_8h.html#aa5ab6025b29b45cc2f4099df288c009d"><param name="Name" value="GetRatio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_interval.html#a32be7f9967586b049961daa00b62069c"><param name="Name" value="start"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_type_and_consts_8h.html"><param name="Name" value="TypeAndConsts.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_type_and_consts_8h.html#a3f1431cb9f76da10f59246d1d743dc2c"><param name="Name" value="Float64"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_type_and_consts_8h.html#adf1ef98b7070177c7c709b0b82276a07"><param name="Name" value="Int32"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_type_and_consts_8h.html#a1e734b9cf13e77f7f0910fc0b3ce6cf9"><param name="Name" value="Kn"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>
