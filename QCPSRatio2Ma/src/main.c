@@ -15,10 +15,16 @@
  */
 Int32 main(void)
 {
-    Float64 Ma = GetMa(1.23986, 0.00001);
-    printf("%f\n", Ma);
-    Float64 ratio = GetRatio(Ma);
-    printf("%f\n", ratio);
+    Float64 Ma, ratio, precision;
+    printf("输入动静压比:");
+    scanf("%lf", &ratio);
+    printf("输入精度(推荐0.00001):");
+    scanf("%lf", &precision);
+
+    Ma = GetMa(ratio, precision);
+    ratio = GetRatio(Ma);
+    printf("马赫数近似值为:%lf\n", Ma);
+    printf("由近似值所得动静压比为:%lf\n", ratio);
 
     system("pause");
     return 0;
