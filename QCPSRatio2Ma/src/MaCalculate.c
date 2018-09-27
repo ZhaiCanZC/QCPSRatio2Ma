@@ -1,6 +1,6 @@
 ﻿/**
  * @file src\MaCalculate.c.
- * @brief 根据动静态气压比计算马赫数.
+ * @brief 根据动静压比计算马赫数.
  * @date 2018/9/26.
  * @author 翟灿    邮箱：840202741@qq.com.
  * @version 1.0
@@ -12,7 +12,7 @@
 
 /**
  * @brief 二分法求解马赫数近似值.
- * @param ratio     动静态气压比，单位：无量纲.
+ * @param ratio     动静压比，单位：无量纲.
  * @param precision 精确度，推荐值:0.00001.
  * @return 对应的马赫数，单位：无量纲.
  */
@@ -66,7 +66,7 @@ Float64 GetMa(Float64 ratio, Float64 precision)
 
 /**
  * @brief 寻找根值所在区间.
- * @param ratio 动静态气压比，单位：无量纲.
+ * @param ratio 动静压比，单位：无量纲.
  * @return 根值所在区间.
  */
 static Interval GetInterval(Float64 ratio)

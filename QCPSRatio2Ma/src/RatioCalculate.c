@@ -1,6 +1,6 @@
 ﻿/**
  * @file src\RatioCalculate.c.
- * @brief 计算动静态气压比值.
+ * @brief 计算动静压比值.
  * @date 2018/9/26.
  * @author 翟灿    邮箱：840202741@qq.com.
  * @version 1.0
@@ -11,9 +11,9 @@
 #include "RatioCalculate.h"
 
 /**
- * @brief 根据马赫数计算动静态气压比.
+ * @brief 根据马赫数计算动静压比.
  * @param Ma 马赫数，单位：无量纲.
- * @return 马赫数所对应的动静态气压比值，单位：无量纲.
+ * @return 马赫数所对应的动静压比值，单位：无量纲.
  */
 Float64 GetRatio(Float64 Ma)
 {
@@ -32,8 +32,8 @@ Float64 GetRatio(Float64 Ma)
 /**
  * @brief 二分法求解时所用函数，即 f(n) = f(Ma) - ratio.
  * @param Ma    马赫数，单位：无量纲.
- * @param ratio 动静态气压比目标值，单位：无量纲.
- * @return 动静态气压比计算值与目标值之差.
+ * @param ratio 动静压比目标值，单位：无量纲.
+ * @return 动静压比计算值与目标值之差.
  */
 Float64 GetFnValue(Float64 Ma, Float64 ratio)
 {
