@@ -1,5 +1,0 @@
-<map id="GetMa" name="GetMa">
-<area shape="rect" id="node2" href="$_ma_calculate_8c.html#ad2249169f3bdf2640f0b4fe7fdf1f8f5" title="寻找根值所在区间. " alt="" coords="115,31,197,57"/>
-<area shape="rect" id="node3" href="$_ma_calculate_8h.html#aeb31e4f36a02d9573367a532f6be24af" title="二分法求解时所用函数，即 f(n) = f(Ma) &#45; ratio. " alt="" coords="253,5,344,32"/>
-<area shape="rect" id="node4" href="$_ma_calculate_8c.html#a36ec9394e297cfb8a1c715d888e6a785" title="判断两个数同号还是异号. " alt="" coords="245,68,352,95"/>
-</map>

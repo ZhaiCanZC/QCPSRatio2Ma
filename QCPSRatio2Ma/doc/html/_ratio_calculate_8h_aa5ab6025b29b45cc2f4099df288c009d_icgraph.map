@@ -1,6 +1,0 @@
-<map id="GetRatio" name="GetRatio">
-<area shape="rect" id="node2" href="$_ratio_calculate_8c.html#aeb31e4f36a02d9573367a532f6be24af" title="二分法求解时所用函数，即 f(n) = f(Ma) &#45; ratio. " alt="" coords="127,5,217,32"/>
-<area shape="rect" id="node3" href="$_ma_calculate_8c.html#a253892e69f34431bc2545a7c6a3e4d95" title="二分法求解马赫数近似值. " alt="" coords="396,5,457,32"/>
-<area shape="rect" id="node5" href="$_ma_calculate_8c.html#ad2249169f3bdf2640f0b4fe7fdf1f8f5" title="寻找根值所在区间. " alt="" coords="265,31,348,57"/>
-<area shape="rect" id="node4" href="$main_8c.html#a4934dbfafc20b64a7cc8cdfb395b233c" title="程序运行起始函数. " alt="" coords="505,5,556,32"/>
-</map>
