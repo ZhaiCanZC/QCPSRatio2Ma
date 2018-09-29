@@ -2,7 +2,7 @@
  * @file src\main.c.
  * @brief 程序运行起始文件.
  * @date 2018/9/26.
- * @author 翟灿    邮箱：840202741@qq.com.
+ * @author 翟灿    邮箱：840202741@@qq.com.
  * @version 1.0
  * @copyright Copyright © 2018 翟灿. All rights reserved.
  */
